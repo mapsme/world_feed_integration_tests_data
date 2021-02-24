@@ -1,0 +1,9 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon
+BEATTY_AIRPORT,Nye County Airport (Demo),,43.644871408, -79.5249161
+TRK,Stagecoach Hotel & Casino (Demo),,43.64480785, -79.525223909
+U8,North Ave / D Ave N (Demo),,43.644554445, -79.525123479
+
+FUR_CREEK_RES,Furnace Creek Resort (Demo),,43.5176524705, -79.690657043
+R_9,North Ave / N A Ave (Demo),,43.51769821, -79.690641206
+K356,Doing Ave / D Ave N (Demo),,43.517743978, -79.690627843
+DOWNTOWN,E Main St / S Irving St (Demo),,43.517745779, -79.690627804

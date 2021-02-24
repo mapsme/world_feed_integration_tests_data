@@ -1,0 +1,5 @@
+shape_id,shape_pt_lat,shape_pt_lon,shape_pt_sequence
+Switzerland_Ticino|Switzerland_Eastern|Italy_Lombardy_Como|Italy_Lombardy_Monza and Brianza,46.3492609, 8.6756745,0
+Switzerland_Ticino|Switzerland_Eastern|Italy_Lombardy_Como|Italy_Lombardy_Monza and Brianza,46.351015, 9.168698,1
+Switzerland_Ticino|Switzerland_Eastern|Italy_Lombardy_Como|Italy_Lombardy_Monza and Brianza,46.1665196, 9.30339,2
+Switzerland_Ticino|Switzerland_Eastern|Italy_Lombardy_Como|Italy_Lombardy_Monza and Brianza,45.6497377, 9.2054068,3

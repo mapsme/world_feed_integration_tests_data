@@ -1,0 +1,2 @@
+route_id,service_id,trip_id,shape_id
+route_straight,sevendays,trip_straight,Switzerland_Ticino|Switzerland_Eastern|Italy_Lombardy_Como|Italy_Lombardy_Monza and Brianza

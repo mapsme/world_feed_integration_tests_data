@@ -1,0 +1,5 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence
+trip_straight,07:00:00,07:05:00,ST,1
+trip_straight,08:00:00,08:05:00,SE,2
+trip_straight,09:00:00,09:05:00,ILC,3
+trip_straight,10:00:00,10:05:00,ILM&B,4

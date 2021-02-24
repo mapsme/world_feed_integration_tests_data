@@ -1,0 +1,5 @@
+stop_id,stop_name,stop_lat,stop_lon
+ST, Switzerland_Ticino,46.3492609, 8.6756745
+SE, Switzerland_Eastern,46.351015, 9.168698
+ILC, Italy_Lombardy_Como,46.1665196, 9.30339
+ILM&B, Italy_Lombardy_Monza and Brianza,45.6497377, 9.2054068
