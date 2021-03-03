@@ -1,0 +1,17 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+2574965,,,American Nation Bank,,39.63393,-106.519478,,,0,,America/Denver,,,0
+2574966,,,Buffalo Ridge East,,39.632445,-106.504386,,,0,,America/Denver,,,0
+2574967,,,Northside Kitchen,,39.638797,-106.521386,,,0,,America/Denver,,,0
+2574968,,,Eagle Bend West,,39.629657,-106.517874,,,0,,America/Denver,,,0
+2574969,,,Stonebridge Drive,,39.628424,-106.512663,,,0,,America/Denver,,,0
+2574970,,,Eagle Bend North,,39.630302,-106.515126,,,0,,America/Denver,,,0
+2574971,,,Avon Crossing/Canyon Run,,39.631338,-106.519134,,,0,,America/Denver,,,0
+2574972,,,Loaded Joes,,39.634015,-106.521661,,,0,,America/Denver,,,0
+2574973,,,Buffalo Ridge West,,39.633326,-106.507179,,,0,,America/Denver,,,0
+2574975,,,Beaver Creek Elk Lot,,39.630713,-106.524748,,,0,,America/Denver,,,0
+2574978,,,Christie Lodge,,39.635104,-106.521184,,,0,,America/Denver,,,0
+2574979,,,Walmart,,39.627472,-106.501871,,,0,,America/Denver,,,0
+2574981,,,City Market,,39.633791,-106.519475,,,0,,America/Denver,,,0
+2574982,,,Christy Sports,,39.63373,-106.521785,,,0,,America/Denver,,,0
+2574983,,,Avon Station,,39.634066,-106.524379,,,0,,America/Denver,,,0
+2576332,,,Salvation Army,,39.6330658734971,-106.515570171304,,,0,,America/Denver,,,0

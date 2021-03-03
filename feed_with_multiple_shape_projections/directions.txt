@@ -1,0 +1,5 @@
+route_id,direction_id,direction
+15186,0,A
+15143,0,A
+15142,0,A
+15141,0,A

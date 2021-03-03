@@ -1,0 +1,5 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_20811_b_28378_d_127,Restaurant Shuttle (All days of week),1,1,1,1,1,1,1,20201219,20210102
+c_19780_b_26220_d_127,Summer (All days of week),1,1,1,1,1,1,1,20200430,20201124
+c_18290_b_28345_d_127,Skier Express Peak Season (All days of week),1,1,1,1,1,1,1,20201219,20210326
+c_18289_b_28338_d_127,Winter Shuttle Schedule (All days of week),1,1,1,1,1,1,1,20201125,20210404
