@@ -1,0 +1,5 @@
+service_id,service_description
+c_20811_b_28378_d_127,Restaurant Shuttle (All days of week)
+c_19780_b_26220_d_127,Summer (All days of week)
+c_18290_b_28345_d_127,Skier Express Peak Season (All days of week)
+c_18289_b_28338_d_127,Winter Shuttle Schedule (All days of week)
