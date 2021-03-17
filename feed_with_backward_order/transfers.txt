@@ -1,0 +1,5 @@
+from_stop_id,to_stop_id,transfer_type,min_transfer_time
+2574965,2574981,1,
+2574975,2574975,0,
+2574981,2574965,1,
+2574983,2574983,1,
