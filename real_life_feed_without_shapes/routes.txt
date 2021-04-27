@@ -1,0 +1,88 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_type
+18,103,,Azagra - Logroño,3
+79,1017,,Cáseda - Pamplona/Iruña,3
+80,1017,,Sangüesa/Zangoza - Tafalla (hijuela),3
+47,1013,,Sartaguda - Pamplona/Iruña,3
+48,1013,,Los Arcos - Otiñano - Estella/Lizarra,3
+41,1013,,Oteiza - Estella/Lizarra (Tierra Estella Bus),3
+24,105,,Azagra - Calahorra,3
+23,105,,Calahorra - Sartaguda,3
+52,1013,,Calahorra - Donostia/San Sebastián,3
+54,1012,,Pamplona/Iruña - Vitoria/Gasteiz,3
+73,1014,,Madotz - Lekunberri,3
+74,1014,,Aldatz - Pamplona/Iruña,3
+75,1014,,Baraibar - Lekunberri,3
+26,107,,Larraona - Estella/Lizarra,3
+1,109,,Pamplona/Iruña - Zaragoza (autopista),3
+12,101,,Aguilar del Río Alhama - Tudela,3
+16,102,,Jaurrieta - Pamplona/Iruña,3
+57,1012,,Clínica Ubarmin - Pamplona/Iruña,3
+35,109,,Pamplona/Iruña - Donostia/San Sebastián (autovía),3
+82,109,,Pamplona/Iruña - Donostia/San Sebastián (autovía-verano),3
+36,109,,Pamplona/Iruña - Donostia/San Sebastián (carretera),3
+28,109,,Baños de Fitero - Pamplona/Iruña,3
+7,109,,Lodosa - Pamplona/Iruña,3
+17,109,,Tudela - Tarazona,3
+21,109,,Pamplona/Iruña - Tafalla - Tudela,3
+29,109,,Tafalla - Artajona - Pamplona/Iruña,3
+38,109,,Tarazona - Tudela - Pamplona/Iruña,3
+19,109,,Falces - Tudela,3
+30,109,,Pamplona/Iruña - Ciudad del Transporte,3
+84,109,,Pamplona/Iruña - Zaragoza (verano),3
+40,109,,Donostia/San Sebastián - Pamplona/Iruña - Zaragoza (solape),3
+81,1018,,Viana - Logroño,3
+32,109,,Ochagavía/Otsagabia - Pamplona/Iruña,3
+76,1019,,Leitza - Areso,3
+77,1019,,Pamplona/Iruña - Leitza - Doneztebe/Santesteban,3
+33,109,,Orbaitzeta - Pamplona/Iruña,3
+22,109,,Sagaseta - Pamplona/Iruña,3
+44,1011,,Pamplona/Iruña - Elizondo,3
+25,106,,Calahorra - Vitoria/Gasteiz,3
+27,108,,Goizueta - Hernani,3
+50,1013,,Pamplona/Iruña - Aguilar de Codés,3
+15,102,,Eugi - Pamplona/Iruña,3
+43,1013,,Los Arcos - Acedo - Estella/Lizarra,3
+34,109,,Pamplona/Iruña - Aoiz/Agoitz - Lumbier,3
+42,1013,,Ayegui - Estella/Lizarra (Tierra Estella Bus),3
+31,109,,Milagro - Pamplona/Iruña,3
+8,109,,Lodosa - Pamplona/Iruña (por Funes),3
+59,1016,,Uztárroz/Uztarroze - Pamplona/Iruña,3
+13,109,,Lodosa - Pamplona/Iruña (por Caparroso),3
+6,109,,Pamplona/Iruña - Zaragoza (pueblos),3
+61,1016,,Figarol - Pamplona/Iruña,3
+1001,1022,,Belascoáin,3
+1000,1022,,Yerri-Guesálaz,3
+1003,1022,,Los Arcos,3
+67,1015,,Pamplona/Iruña - Cendea de Olza/Oltza Zendea,3
+63,1015,,Pamplona/Iruña - Ultzama (hasta Eltzaburu),3
+65,1015,,Pamplona/Iruña - Bidaurreta,3
+66,1015,,Pamplona/Iruña - Cendea de Olza/Oltza Zendea - Etxauri,3
+72,1015,,Pamplona/Iruña - Ororbia,3
+120,108,,Goizueta - Leitza,3
+49,1013,,Mendavia - Los Arcos - Estella/Lizarra,3
+51,1013,,Logroño-Donostia/San Sebastián - Irun,3
+64,1015,,Ultzama-Pamplona/Iruña,3
+62,1016,,Lerín - Pamplona/Iruña,3
+9,101,,Urbano Tudela. Línea Amarilla,3
+45,1011,,Donosti/San Sebastián - Elizondo,3
+46,1011,,Pamplona/Iruña - Donostia/San Sebastián,3
+301,109,,Pamplona/Iruña-Soria (por autopista),3
+20,104,,Funes - Calahorra,3
+71,1015,,Pamplona/Iruña - Etxauri,3
+78,1019,,Leitza - Tolosa,3
+39,109,,Cortes - Pamplona/Iruña,3
+14,109,,Tudela - Cortes - Fustiñana,3
+60,1016,,Tafalla - Ujué/Uxue,3
+55,1012,,Pamplona/Iruña - Lesaka - Donostia/San Sebastián,3
+86,1015,,Pamplona/Iruña - Etxauri (periodo escolar),3
+1002,1022,,Ollo,3
+68,1013,,Pamplona/Iruña - Logroño,3
+69,1013,,Pamplona/Iruña - Estella/Lizarra,3
+70,1013,,Calahorra - Estella/Lizarra - Pamplona/Iruña,3
+10,101,,Urbano Tudela. Línea Verde,3
+58,1012,,Pamplona/Iruña - Zarautz,3
+37,109,,Tudela - Pamplona/Iruña (autopista),3
+11,101,,Urbano Tudela. Línea Roja,3
+300,109,,Pamplona/Iruña-Soria (por carretera),3
+2,1010,,Ablitas - Tudela,3
+85,109,,Donostia/San Sebastián - Pamplona/Iruña - Zaragoza (solape-verano),3
