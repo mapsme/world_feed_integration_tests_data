@@ -1,0 +1,2 @@
+route_id,service_id,trip_id,trip_short_name,trip_headsign,direction_id,block_id,shape_id,bikes_allowed,wheelchair_accessible,trip_type,drt_max_travel_time,drt_avg_travel_time,drt_advance_book_min,drt_pickup_message,drt_drop_off_message,continuous_pickup_message,continuous_drop_off_message,booking_rule_id
+15141,c_19780_b_26220_d_127,t_1077833_b_26220_tn_1,,Eaglebend West,0,,p_914339,,,,,,,,,,,
